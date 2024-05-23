@@ -15,7 +15,7 @@ This web application is designed to help users improve their typing skills while
 
 ## How to Play
 
-1. Clone the repository: `git clone https://github.com/swati-204/typing-game.git`
+1. Clone the repository: `git clone https://github.com/riteshpaarihar/typing-game.git`
 2. Navigate to the project directory: `cd typing-game`
 3. Open `index.html` in your web browser.
 4. Select your preferred difficulty level and start typing!
